@@ -1,0 +1,5 @@
+setuptools
+Flask
+Flask-Cors
+oslo_config
+eventlet
